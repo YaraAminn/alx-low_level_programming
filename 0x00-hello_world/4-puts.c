@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
-*main:it's where we write the program here we write in this program a function called puts
-*return 0:it's the success and end of the program
+*main:it's the start of the program
+*return 0:it's the success, end of the program
 */
 int main(void)
 {
