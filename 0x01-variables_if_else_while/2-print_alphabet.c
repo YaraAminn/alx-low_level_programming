@@ -9,7 +9,12 @@
 
 int main(void)
 {
-	putchar(70);
+	int l = 97;
+	while (l <= 122)
+	{
+		putchar(l);
+		l++;
+	}
 	putchar('\n');
 	return (0);
 }
