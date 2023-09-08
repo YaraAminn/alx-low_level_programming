@@ -2,11 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - Entry point
+ * main - entry point
  * Description : check the type of n
- * Return : Always 0 (Success)
+ * Return : always 0(Success)
 */
-/* betty style doc for function main goes there */
+
 int main(void)
 
 {
