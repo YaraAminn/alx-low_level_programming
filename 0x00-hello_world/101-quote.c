@@ -3,7 +3,7 @@
 /**
  * main - entry point
  *
- * Description:A program that prints a sentence
+ * Description:A program explains unix
  *
  * Return: 1 (success)
  */
