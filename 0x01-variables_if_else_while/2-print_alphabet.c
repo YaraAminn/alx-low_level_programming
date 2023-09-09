@@ -10,6 +10,7 @@
 int main(void)
 {
 	int l = 97;
+
 	while (l <= 122)
 	{
 		putchar(l);
