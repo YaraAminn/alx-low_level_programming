@@ -3,10 +3,11 @@
 #include <stdio.h>
 /**
  * main - entry point
- * Description : check the type of n
- * Return : always 0(Success)
-*/
-
+ *
+ * Description:program checks num is posititve or negative
+ *
+ * Return: always 0(success)
+ */
 int main(void)
 
 {
