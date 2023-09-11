@@ -8,22 +8,22 @@
  */
 int main(void)
 {
-	int hunds = '0';
-	int tens = '0';
-	int units = '0';
+	int hund = '0';
+	int ten = '0';
+	int unit = '0';
 
-	for (hunds = '0'; hunds <= '9'; hunds++)
+	for (hund = '0'; hund <= '9'; hund++)
 	{
-		for (tens = '0'; tens <= '9'; tens++)
+		for (ten = '0'; ten <= '9'; ten++)
 		{
-			for (units = '0'; units <= '9'; units++)
+			for (unit = '0'; unit <= '9'; unit++)
 			{
-				if(!((hunds == tens) || (tens == units) || (hunds > tens) || (tens > units)))
+				if (!((hund == ten) || (ten == unit) || (hund > ten) || (ten > unit)))
 				{
-					putchar(hunds);
-					putchar(tens);
-					putchar(units);
-					if(!((hunds == '7') && (tens == '8') && (units == '9')))
+					putchar(hund);
+					putchar(ten);
+					putchar(unit);
+					if (!((hund == '7') && (ten == '8') && (unit == '9')))
 					{
 						putchar(',');
 						putchar(' ');
