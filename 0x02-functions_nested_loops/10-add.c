@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- * add - Entry point for Adding 2 integer numbers
+ * int add - Entry point for Adding 2 integer numbers
  *
  * @a: the first number to solve
  * @b: the second number to solve
- * 
+ *
  * Return : Integer Value
  */
 
