@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - entry point
+ * print_alphabet- entry point
  *
  * Description:A program that prints the alphabet in lowercase
  *
@@ -15,7 +15,6 @@ void print_alphabet(void)
 	for (alph = 'a'; alph <= 'z'; alph++)
 	{
 		_putchar(alph);
-	
 	}
 
 _putchar('\n');
