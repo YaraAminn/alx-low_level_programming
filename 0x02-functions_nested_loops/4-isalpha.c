@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _isalpha - Checks for alphabetic letter
+ * int_isalpha - Checks for alphabetic letter
  *
  * @c : The checked character
  *
