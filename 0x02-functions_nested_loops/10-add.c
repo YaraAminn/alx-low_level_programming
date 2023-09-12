@@ -1,11 +1,11 @@
 #include "main.h"
 /**
- * int add - Entry point for Adding 2 integer numbers
+ * add - Adding two integer values
  *
  * @a: the first number to solve
  * @b: the second number to solve
  *
- * Return : Integer Value
+ * Return: Integer Value
  */
 
 int add(int a, int b)
