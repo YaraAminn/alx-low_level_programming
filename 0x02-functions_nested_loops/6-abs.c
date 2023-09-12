@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
-*_abs - Entry point to Computes the abs value of a number
+*_abs - Entry point to compute the abs value of a number
 *
 * @c :The computed number
 * Description : program that prints the asb val of num
-* Return : Absolue value of a number or 0
+* Return: Absolue value of a number or 0
 */
 
 int _abs(int c)
