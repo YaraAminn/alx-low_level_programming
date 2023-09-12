@@ -5,7 +5,7 @@
  *
  * @num : the number to be printed
  *
- * Return : l_n(success)
+ * Return : value of the last digit number
  */
 
 int print_last_digit(int num)
