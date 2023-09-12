@@ -1,12 +1,12 @@
 #include "main.h"
 /**
- * isalpha - Checks for any alphabetic character
+ * _isalpha - Checks for any alphabetic character
  *
- * @c : The checked character
+ * @c: The checked character
  *
  * Descrption : A program to check any alphabetic character
  *
- * Return: 1(for any alphabetic character) or 0(for anything else)
+ * Return: 1 for any alphabetic character or 0 for anything else
  */
 
 int _isalpha(int c)
