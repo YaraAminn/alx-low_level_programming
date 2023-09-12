@@ -4,7 +4,7 @@
  *
  * @c : The checked character
  *
- * Return : 1 for any alphabetic or 0 for anyother one
+ * Return : 1 for any alphabetic character or 0 for anything else
  */
 
 int _isalpha(int c)
