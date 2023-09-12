@@ -5,6 +5,7 @@
  *
  * @num : the number to be printed
  *
+ * Description : write a program to print the last digit num
  * Return : (l_n) value of the last digit number
  */
 
