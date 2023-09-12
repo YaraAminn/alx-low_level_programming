@@ -9,12 +9,11 @@
  */
 
 int print_last_digit(int num)
-
 {
 	int l_n;
 
 	l_n = num % 10;
-	if (l_n <0)
+	if (l_n < 0)
 	{
 		l_n = l_n * -1;
 	}
