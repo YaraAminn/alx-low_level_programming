@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-*_abs - Computes the abs value of a number
+*_abs - Entry point to Computes the abs value of a number
 *
 * @c :The computed number
 * Description : program that prints the asb val of num
