@@ -19,5 +19,5 @@ void positive_or_negative(int i)
 	{
 		printf("%d is %s\n", i, "positive");
 	}
-	return (0);
+	return;
 }
