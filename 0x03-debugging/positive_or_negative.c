@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * main - Determine if anum is positive, negative or zero
+ * main - Determine if anum is positive,negative or zero
  * 0 : is the checked number
- * Return : 0 on success
+ * Return: 0 on success
  */
 void positive_or_negative(int i)
 {
@@ -19,5 +19,4 @@ void positive_or_negative(int i)
 		printf("%d is %s\n" , i , "positive");
 	}
 	return;
-
 }
