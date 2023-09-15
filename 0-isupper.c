@@ -6,7 +6,7 @@
  * Return: 1 for uppcse lett, 0 for anything else
  */
 
-_isupper(int c)
+int _isupper(int c)
 {
 	if (c >= 65 && c <= 90)
 	{
