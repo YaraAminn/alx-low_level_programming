@@ -1,6 +1,6 @@
 #include "main.h"
-/** _isupper - Check if letter is uppercase
- * 
+ /** _isupper - Check if letter is uppercase
+ *
  * @c: The checked letter
  *
  * Return: 1 for uppcse lett, 0 for anything else
