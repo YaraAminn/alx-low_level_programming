@@ -1,6 +1,6 @@
 #include <string.h>
 /**
- * _strncat - a function to 
+ * _strncat - a function to
  * concatenate two strings
  *
  * @dest: destination string
