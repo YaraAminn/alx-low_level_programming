@@ -1,1 +1,1 @@
-This is a README File made for the 0x09 Static Libraries task
+This is a readme file made for the 0x09 static libraries task
