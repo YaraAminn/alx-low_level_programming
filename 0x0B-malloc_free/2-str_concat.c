@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * *str_len -  function that concatenates
+ * _strlen -  function that concatenates
  * two strings
  *
  * @s: string
@@ -26,7 +26,7 @@ int _strlen(char *s)
 
 char *str_concat(char *s1, char *s2)
 {
-	int size1; 
+	int size1;
 	int size2;
 	int i;
 	char *mem;
@@ -42,7 +42,7 @@ char *str_concat(char *s1, char *s2)
 
 	size1 = _strlen(s1);
 	size2 = _strlen(s2);
-	mem = malloc((size1 + size2) *sizeof(char) + 1);
+	mem = malloc((size1 + size2) * sizeof(char) + 1);
 
 	if (mem == 0)
 		return (0);
