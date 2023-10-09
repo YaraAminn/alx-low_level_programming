@@ -4,8 +4,11 @@
  * memory block using malloc and free
  *
  * @ptr: char pointer
- * @old_size: input int
- * @new_size: input int
+ * @old_size:  size, in bytes, of the allocated
+ * space for ptr
+ *
+ * @new_size:  the new size, in bytes of
+ * the new memory block
  *
  * Return: new pointer or Null
  */
