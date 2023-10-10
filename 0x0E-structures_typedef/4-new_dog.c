@@ -1,8 +1,7 @@
 #include "dog.h"
 #include <stdlib.h>
-#include <stdio.h>
 /**
- * new_dog -  function that creates a new dog
+ * new_dog - function that creates a new dog
  *
  * @name: input dog name
  * @age: float dog age
@@ -12,7 +11,7 @@
  */
 dog_t *new_dog(char *name, float age, char *owner)
 {
-	size_t nme, own, i;
+	unsigned int nme, own, i;
 	dog_t *dog;
 
 	if (name == NULL || owner == NULL)
