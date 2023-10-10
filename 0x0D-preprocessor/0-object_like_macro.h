@@ -5,6 +5,5 @@
  *
  * Description: Make a macro header file
  */
-#define SIZE 1024 
-
-#endif 
+#define SIZE 1024
+#endif
