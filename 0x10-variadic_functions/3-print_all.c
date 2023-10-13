@@ -4,13 +4,12 @@
  *
  * @format: types of arguments passed to the function
  *
- * Return: void
+ * Return: any type of the required arguments 
  */
 void print_all(const char * const format, ...)
 {
 	int i, check;
 	char *string;
-
 	va_list specify;
 
 	va_start(specify, format);
