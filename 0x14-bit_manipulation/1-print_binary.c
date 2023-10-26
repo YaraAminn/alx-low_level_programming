@@ -13,7 +13,7 @@ void print_bin(unsigned long int n)
 
 	if ((n & 1) == 1)
 		_putchar('1');
-	if ((n & 0) == 0)
+	if ((n & 1) == 0)
 		_putchar('0');
 }
 /**
